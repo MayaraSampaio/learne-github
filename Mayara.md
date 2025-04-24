@@ -1,1 +1,2 @@
-texto de teste adicionado
+texto de teste adicionado,
+com novas informações
